@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AutoSponge/json-extend.svg)](https://travis-ci.org/AutoSponge/json-extend)
+
 # json-extend
 
 Deep extend utility designed for use with JSON data.
